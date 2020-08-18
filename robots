@@ -1,0 +1,6 @@
+User-agent:*
+Disallow:/public/img/
+
+User-agent:*
+Disallow:/public/images/
+
